@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Computational Models of Natural Argument (CMNA 23)</title>
+    <link>https://cmna-workshop.github.io/cmna23/</link>
+    <description>Recent content on Workshop on Computational Models of Natural Argument (CMNA 23)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://cmna-workshop.github.io/cmna23/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dates</title>
+      <link>https://cmna-workshop.github.io/cmna23/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/dates/</guid>
+      <description>Key Dates  Regular Paper submission (long &amp;amp; Short papers): 18th July 2022 (extended) Review Period: 18th July 2022 &amp;ndash; 11th August 2022 Notification to authors: 17th August 2022 Final (Camera Ready) version of papers: 26th August 2022 Workshop: Monday 12th September 2022  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://cmna-workshop.github.io/cmna23/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/home/</guid>
+      <description>Since its inception in 2001, the CMNA workshop series has focused upon the issue of modelling “natural” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors.</description>
+    </item>
+    
+    <item>
+      <title>News &amp; Updates</title>
+      <link>https://cmna-workshop.github.io/cmna23/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/news/</guid>
+      <description> [2022.09.09] CEUR Volume #3205 published to the CEUR Workshop Proceedings Site. [2022.09.09] Final papers (long, short, abstract, posters) published to the programme page. [2022.08.06] Final call for papers is available (&amp;amp; downloadable as a PDF)) [2022.08.06] Dates Updated &amp;amp; Extended [2022.01.14] First call for papers is available on this site (&amp;amp; downloadable as a PDF))  </description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://cmna-workshop.github.io/cmna23/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/organisation/</guid>
+      <description>If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee  Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University  Programme Committee  Francielle Alves VargasInstituto de Ciencias Matematicas e de Computacao da Universidade de Sao Paulo (ICMC/USP) Elena CabrioUniversite Cote d&#39;Azur, CNRS, Inria, I3S, France Sylvie DoutreUniversity of Toulouse 1 - IRIT Reva FreedmanNorthern Illinois University Massimiliano GiacominUniversity of Brescia Stella HerasUniversitat Politecnica de Valencia Helmut HoracekSaarland University Mare KoitUniversity of Tartu Collin LynchNorth Carolina State University Elena MusiUniversity of Liverpool Rudi PalmieriUniversity of Liverpool Andrea PazienzaInnovation Lab, Exprivia S.</description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://cmna-workshop.github.io/cmna23/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/programme/</guid>
+      <description>Authors Title Time     Workshop Organisers INTRODUCTORY REMARKS 09:00-09:10   Annemarie Borg and Floris Bex Modeling Contrastiveness in Argumentation (long) 09:10-09:40   Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil Towards an Argument Scheme Classification for Ethical Reasoning (short) 09:30-10:00   Simon Wells and Mark Snaith Reconsidering RepStat Rules in Dialectical Games (long) 10:00-10:30   ALL BREAK/COFFEE/CHAT 10:30-11:00   Jack Mumford, Katie Atkinson and Trevor Bench-Capon Representing and Extracting Support via Complement-based Argumentation Frameworks (long) 11:00-11:30   Adam Wyner and Tomasz Zurek Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict (long) 11:30-12:00   Charles Stubbs and Tommy Yuan Towards an Argument Knowledge Base for Autonomous Debating Systems (long) 12:00-12:30   ALL LUNCH 12:45-14:00   Lucas Doust Alba and Tommy Yuan Leveraging BERT Encodings for Open-Domain Stance Classification (abstract) 14:00-14:15   Costanza Lucchini, Andrea Rocci and Giulia D&amp;rsquo;Agostino Annotating argumentation within questions.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://cmna-workshop.github.io/cmna23/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/submission/</guid>
+      <description>Workshop Submission  Download a PDF version of the first call for papers Download a PDF version of the final call for papers  The workshop encourages submissions in four categories:
+ Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages). Demos (2 page abstract describing the demo) Posters (2 page abstract explaining the concept behind the poster).</description>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>https://cmna-workshop.github.io/cmna23/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna23/topics/</guid>
+      <description>The CMNA workshop series focuses on the general issue of modelling &amp;ldquo;natural&amp;rdquo; argumentation.
+However, to celebrate our co-location with COMMA, this year we have introduced a special theme on exploration of the space between computational and natural models of argument. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models.
+Nothwithstanding the special theme, we also solicit contributions addressing, but not limited to, the following areas of interest:</description>
+    </item>
+    
+  </channel>
+</rss>
