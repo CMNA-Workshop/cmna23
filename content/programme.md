@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
-<!--We'll publish a full timetable of events and links to papers CMNA'22 closer to the event.-->
+We'll publish a full timetable of events and links to papers CMNA'23 closer to the event.
 
 <!--
 * Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
@@ -16,7 +16,7 @@ comments: false
 
 
 <!--# Session #1 (Thursday September 2nd, 15:00-17:30 BST)-->
-
+<!--
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **INTRODUCTORY REMARKS** | 09:00-09:10 |
@@ -40,7 +40,7 @@ comments: false
 
 
 Long & short papers have been published as archival proceedings on the [CEUR Workshop Proceedings website](http://ceur-ws.org/) in [volume #3205](http://ceur-ws.org/Vol-3205/).
-
+-->
 <!--
 # Invited Speaker (13:45-14:30 CET)
 

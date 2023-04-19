@@ -7,7 +7,7 @@ comments: false
 # Workshop Submission
 
 * Download a PDF version of the [first call for papers](/cmna22/assets/cfp/cfp1.pdf) 
-* Download a PDF version of the [final call for papers](/cmna22/assets/cfp/cfp2.pdf)
+<!--* Download a PDF version of the [final call for papers](/cmna22/assets/cfp/cfp2.pdf)-->
 
 
 The workshop encourages submissions in four categories:
@@ -21,12 +21,12 @@ All accepted submissions will be archived locally on this site. Long & short pap
 
 It is highly recommended, but not mandatory, to format papers using the [CEUR Single Column Style](http://ceur-ws.org/Vol-XXX/) (more details below in the style section). Paper submission will be handled by the Easychair conference system. Please submit your paper here via easychair: 
 
-* https://easychair.org/conferences/?conf=cmna22
+* https://easychair.org/conferences/?conf=cmna23
 
 
 # Pre-Proceedings Submission
 
-We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 22 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years.  For final proceedings submission we'll use the [CEUR styles](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) specifically the single column style from [this page](http://ceur-ws.org/Vol-XXX/).
+We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 23 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years.  For final proceedings submission we'll use the [CEUR styles](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) specifically the single column style from [this page](http://ceur-ws.org/Vol-XXX/).
 
 ### Direct Links to style files 
 

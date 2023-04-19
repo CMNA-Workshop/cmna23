@@ -6,8 +6,8 @@ comments: false
 
 # Key Dates
 
-* Regular Paper submission (long & Short papers): 18th July 2022 (extended)
-* Review Period: 18th July 2022 -- 11th August 2022
-* Notification to authors: 17th August 2022
-* Final (Camera Ready) version of papers: 26th August 2022
-* Workshop: **Monday 12th September 2022**
+* Regular Paper submission (long & Short papers): 12th May 2023
+* Review Period: 12th May 2023 -- 2nd June 2023
+* Notification to authors: 2nd June 2023
+* Final (Camera Ready) version of papers: 23rd June 2023
+* Workshop: **July 9-15th (exact date of workshop within the ICLP schedule to be confirmed)**

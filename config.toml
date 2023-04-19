@@ -65,9 +65,9 @@ copyright = ""
   since = "2018"    
 
   # site info (optional)     
-  logoTitle = "Workshop on Computational Models of Natural Argument (CMNA 22)"        
+  logoTitle = "Workshop on Computational Models of Natural Argument (CMNA 23)"        
   keywords = ["Hugo", "theme","even"]
-  description = "Computational Models of Natural Argument (CMNA'22) Workshop Website."
+  description = "Computational Models of Natural Argument (CMNA'23) Workshop Website."
 
   # paginate of archives, tags and categories          
   archivePaginate = 5
