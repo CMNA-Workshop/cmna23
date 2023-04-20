@@ -6,7 +6,7 @@ comments: false
 
 # Workshop Submission
 
-* Download a PDF version of the [first call for papers](/cmna22/assets/cfp/cfp1.pdf) 
+* Download a PDF version of the [first call for papers](/cmna23/assets/cfp/cfp1.pdf) 
 <!--* Download a PDF version of the [final call for papers](/cmna22/assets/cfp/cfp2.pdf)-->
 
 
@@ -19,9 +19,13 @@ The workshop encourages submissions in four categories:
 
 All accepted submissions will be archived locally on this site. Long & short papers will also be archved through CEUR workshop proceedings. Demos & posters will only be archived locally.
 
-It is highly recommended, but not mandatory, to format papers using the [CEUR Single Column Style](http://ceur-ws.org/Vol-XXX/) (more details below in the style section). Paper submission will be handled by the Easychair conference system. Please submit your paper here via easychair: 
+It is highly recommended, but not mandatory, to format papers using the [CEUR Single Column Style](http://ceur-ws.org/Vol-XXX/) (more details below in the style section). 
+
+Long & Short Paper submission will be handled by the Easychair conference system. Please submit your paper here via easychair: 
 
 * https://easychair.org/conferences/?conf=cmna23
+
+Poster & Demo abstracts should be submitted directly to the organising committee and not through easychair.
 
 
 # Pre-Proceedings Submission
