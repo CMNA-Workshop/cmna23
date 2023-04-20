@@ -34,9 +34,9 @@ Long & Short Paper submission will be handled by the Easychair conference system
 Poster & Demo abstracts should be submitted directly to the organising committee and not through easychair.
 
 
-# Pre-Proceedings Submission
+# Contribution Style 
 
-We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 23 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years.  For final proceedings submission we'll use the [CEUR styles](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) specifically the single column style from [this page](http://ceur-ws.org/Vol-XXX/).
+For final proceedings submission we'll use the [CEUR styles](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) specifically the single column style from [this page](http://ceur-ws.org/Vol-XXX/). It is recommended that you prepare your submission for review using this style.
 
 If the following don't download automatically then please right click on the required link and select "save link as..." from the pop-up menu.
 
@@ -44,6 +44,11 @@ If the following don't download automatically then please right click on the req
 * For Open Document Format users: [ODT Template](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.odt)
 * For Word Users: [DOCX Template](http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx)
 
-# Post-Proceedings
+
+# Pre-Proceedings Publication
+
+We've gotten into the habit recently of publishing pre-proceedings shortly before the workshop so that folk can attend having prepared for the workshop, knowing what to expect, and being ready to engage with the presented work. So we plan to publish proceedings for CMNA 23 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
+
+# Post-Proceedings Publication
 
 Periodically we publish a collection of papers from recent CMNA events. It is coming time to do so again...
