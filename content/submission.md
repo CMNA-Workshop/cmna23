@@ -7,7 +7,7 @@ comments: false
 # Downloadable CFP
 
 * Download a PDF version of the [first call for papers](/cmna23/assets/cfp/cfp1.pdf) 
-<!--* Download a PDF version of the [final call for papers](/cmna22/assets/cfp/cfp2.pdf)-->
+* Download a PDF version of the [second call for papers](/cmna23/assets/cfp/cfp2.pdf)
 
 # Workshop Categories
 
