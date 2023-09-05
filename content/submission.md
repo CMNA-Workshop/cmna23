@@ -8,6 +8,7 @@ comments: false
 
 * Download a PDF version of the [first call for papers](/cmna23/assets/cfp/cfp1.pdf) 
 * Download a PDF version of the [second call for papers](/cmna23/assets/cfp/cfp2.pdf)
+* Download a PDF version of the [third call for papers](/cmna23/assets/cfp/cfp3.pdf)
 
 # Workshop Categories
 
@@ -18,6 +19,7 @@ The workshop encourages submissions in four categories:
 * Short papers describing work in progress (up to 5 pages).
 * Demos (2 page abstract describing the demo)
 * Posters (2 page abstract explaining the concept behind the poster).
+* Late breaking results (2 page abstract reporting the results).
 
 All accepted submissions will be archived locally on this site. Long & short papers will also be archved through CEUR workshop proceedings. Demos & posters will only be archived locally.
 
@@ -31,7 +33,7 @@ Long & Short Paper submission will be handled by the Easychair conference system
 
 ## Poster & Demo Abstract Submission
 
-Poster & Demo abstracts should be submitted directly to the organising committee and not through easychair.
+Poster & Demo abstracts should be submitted directly to the organising committee using an email address from the [organisation page](/cmna23/organisation) and not through easychair.
 
 
 # Contribution Style 
