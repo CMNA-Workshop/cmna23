@@ -6,9 +6,9 @@ comments: false
 
 The CMNA workshop series focuses on the general issue of modelling "natural" argumentation.
 
-However, to celebrate our co-location with COMMA, this year we have introduced a special theme on *explorations of the relationship between logic programming and computational models of natural argument*. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models. 
+<!--However, to celebrate our co-location with COMMA, this year we have introduced a special theme on *explorations of the relationship between logic programming and computational models of natural argument*. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models. 
 
-Nothwithstanding the special theme, we also solicit contributions addressing, but not limited to, the following areas of interest:
+Nothwithstanding the special theme, we also solicit contributions addressing, but not limited to, the following areas of interest: -->
 
  Contributions are solicited addressing, but not limited to, the following areas of interest:
 
