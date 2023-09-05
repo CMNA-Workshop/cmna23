@@ -5,6 +5,8 @@ comments: false
 ---
 
 
+* [2023.09.01] New, third call for papers released.
+* [2023.06.01] CMNA at ICLP Cancelled. CMNA'23 *will* happen online later in the year so stay tuned.
 * [2023.05.12] Dates Updated & Extended. Get your papers submitted by 22nd May.
 
 
