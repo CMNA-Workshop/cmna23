@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cmna-workshop.github.io/cmna23/dates/</guid>
-      <description>Key Dates  Regular Paper submission (long &amp;amp; short papers): 12th May 2023 22nd May 2023 Review Period: 22nd May 2023 &amp;ndash; 2nd June 2023 Notification to authors: 2nd June 2023 Demo &amp;amp; Poster submission (2 page abstract): 2nd June 2023 Final (Camera Ready) version of papers: 23rd June 2023 Workshop: July 9-10th (exact date of workshop within the ICLP schedule to be confirmed)  </description>
+      <description>Key Dates  Regular Paper submission (long &amp;amp; short papers): Friday 13th October 2023 Review Period: Friday 13th October &amp;ndash; Friday 3rd November 2023 Notification to authors: Friday 3rd November 2023 Demo, poster, &amp;amp; late breaking results submission (2 page abstract): Friday 3rd November 2023 Demo, poster, &amp;amp; late breaking results Notification to authors: Friday 10th November 2023 Final (Camera Ready) version of papers: Friday 17th November 2023 Workshop: Friday 1st December 2023  </description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cmna-workshop.github.io/cmna23/news/</guid>
-      <description> [2023.05.12] Dates Updated &amp;amp; Extended. Get your papers submitted by 22nd May.  </description>
+      <description> [2023.09.01] New, third call for papers released. [2023.06.01] CMNA at ICLP Cancelled. CMNA&#39;23 will happen online later in the year so stay tuned. [2023.05.12] Dates Updated &amp;amp; Extended. Get your papers submitted by 22nd May.  </description>
     </item>
     
     <item>
@@ -63,8 +63,8 @@ Organising Committee  Floriana Grasso floriana@liverpool.ac.uk University of Liv
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cmna-workshop.github.io/cmna23/submission/</guid>
-      <description>Downloadable CFP  Download a PDF version of the first call for papers Download a PDF version of the second call for papers  Workshop Categories The workshop encourages submissions in four categories:
- Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages). Demos (2 page abstract describing the demo) Posters (2 page abstract explaining the concept behind the poster).</description>
+      <description>Downloadable CFP  Download a PDF version of the first call for papers Download a PDF version of the second call for papers Download a PDF version of the third call for papers  Workshop Categories The workshop encourages submissions in four categories:
+ Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages).</description>
     </item>
     
     <item>
@@ -74,7 +74,8 @@ Organising Committee  Floriana Grasso floriana@liverpool.ac.uk University of Liv
       
       <guid>https://cmna-workshop.github.io/cmna23/topics/</guid>
       <description>The CMNA workshop series focuses on the general issue of modelling &amp;ldquo;natural&amp;rdquo; argumentation.
-However, to celebrate our co-location with COMMA, this year we have introduced a special theme on explorations of the relationship between logic programming and computational models of natural argument. Our theme should be interpreted broadly, to reflect the wide range of approaches to recognising, formalising, and understanding the richness of real-world reasoning and communication processes within computational models.</description>
+Contributions are solicited addressing, but not limited to, the following areas of interest:
+ The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal aspects). The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style. The generation of natural argument Corpus argumentation results and techniques Argumentation mining Models of natural legal argument Rhetoric and affect: the role of emotions, personalities, etc.</description>
     </item>
     
   </channel>
