@@ -4,6 +4,7 @@ subtitle:
 comments: false
 ---
 
+* [2023.11.27] Call for Participation released.
 * [2023.10.23] Fourth call for paper released.
 * [2023.09.01] New, third call for papers released.
 * [2023.06.01] CMNA at ICLP Cancelled. CMNA'23 *will* happen online later in the year so stay tuned.
