@@ -3,8 +3,8 @@ title:  News & Updates
 subtitle: 
 comments: false
 ---
-* [2023.11.28] Provisional programme of events released.
-* [2023.11.27] Call for Participation released.
+* [2023.11.28] Provisional [programme of events](/cmna23/programme) published.
+* [2023.11.27] [Call for Participation](/cmna23/assets/cfp/cfparticipation.pdf) released.
 * [2023.10.23] Fourth call for paper released.
 * [2023.09.01] New, third call for papers released.
 * [2023.06.01] CMNA at ICLP Cancelled. CMNA'23 *will* happen online later in the year so stay tuned.
