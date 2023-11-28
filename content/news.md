@@ -3,7 +3,7 @@ title:  News & Updates
 subtitle: 
 comments: false
 ---
-
+* [2023.11.28] Provisional programme of events released.
 * [2023.11.27] Call for Participation released.
 * [2023.10.23] Fourth call for paper released.
 * [2023.09.01] New, third call for papers released.
