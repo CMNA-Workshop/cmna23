@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
-We'll publish a full timetable of events and links to papers CMNA'23 closer to the event.
+<!--We'll publish a full timetable of events and links to papers CMNA'23 closer to the event.-->
 
 <!--
 * Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
@@ -16,30 +16,24 @@ We'll publish a full timetable of events and links to papers CMNA'23 closer to t
 
 
 <!--# Session #1 (Thursday September 2nd, 15:00-17:30 BST)-->
-<!--
+
 |  Authors | Title  | Time  |
 |----------|---|---|
-| Workshop Organisers | **INTRODUCTORY REMARKS** | 09:00-09:10 |
-| Annemarie Borg and Floris Bex | [Modeling Contrastiveness in Argumentation](/cmna22/assets/papers/4029-Borg_Bex.pdf) (long)  | 09:10-09:40  | 
-| Elfia Bezou Vrakatseli, Oana Cocarascu and Sanjay Modgil | [Towards an Argument Scheme Classification for Ethical Reasoning](/cmna22/assets/papers/0939-Bezou-Vrakatseli_Cocarascu_Modgil.pdf)  (short)  | 09:30-10:00 |
-| Simon Wells and Mark Snaith | [Reconsidering RepStat Rules in Dialectical Games](/cmna22/assets/papers/4987-Wells_Snaith.pdf) (long) | 10:00-10:30 |
-| ALL | **BREAK/COFFEE/CHAT** | 10:30-11:00 | 
-| Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Representing and Extracting Support via Complement-based Argumentation Frameworks](/cmna22/assets/papers/4791-Mumford_Atkinson_Bench-Capon.pdf) (long) | 11:00-11:30 |
-| Adam Wyner and Tomasz Zurek | [Towards a Formal Framework for Motivated Argumentation and the Roots of Conflict](/cmna22/assets/papers/8410-Zurek_Wyner.pdf) (long) | 11:30-12:00 |
-| Charles Stubbs and Tommy Yuan | [Towards an Argument Knowledge Base for Autonomous Debating Systems](/cmna22/assets/papers/0273-Stubbs_Yuan.pdf) (long) | 12:00-12:30 |
-| ALL | LUNCH | 12:45-14:00 |
-| Lucas Doust Alba and Tommy Yuan | [Leveraging BERT Encodings for Open-Domain Stance Classification](/cmna22/assets/papers/Alba-Yuan.pdf) (abstract) | 14:00-14:15 |
-| Costanza Lucchini, Andrea Rocci and Giulia D'Agostino | [Annotating argumentation within questions.  Prefaced questions as a genre specific argumentative pattern in earnings conference calls](/cmna22/assets/papers/0917-Lucchini_Rocci_DAgostino.pdf) (short) | 14:15-14:35 |
-| Olena Yaskorska-Shah, Andrea Rocci and Chris Reed | [Conversation shaping questions: a taxonomy used for mapping argumentative dialogues in financial discourse](/cmna22/assets/papers/9555-Yaskorska-Shah_Rocci_Reed.pdf) (long) | 14:35-15:05 |
-| Giulia D'Agostino | [“(so long, and) thanks for all the color”.  Requests of elaboration and answers they trigger in Earnings Conference Calls](/cmna22/assets/papers/6602-DAgostino.pdf) (short)| 15:05-15:25 |
-| ALL | **BREAK/COFFEE/CHAT** | 15:45-16:10 |
-| Muhammad Tawsif Sazid and Robert Mercer | [A Unified Representation and Deep Learning Architecture for Argumentation Mining of Students' Persuasive Essays](/cmna22/assets/papers/3017-Sazid_Mercer.pdf) (long) | 16:10-16:40 |
-| Noa Brandel, Royi Lachmy, Noa Yomtovyan, Reut Tsarfaty and Baruch Schwarz | [Annotation Scheme for Aggregated Argumentation in Online Educational Forums](/cmna22/assets/papers/Brandel-Lachmy-Yomtovyan-Tsarfaty-Schwarz--Annotation-Scheme-for-Aggregated-Argumentation-in-Online-Educational-Forums.pdf) (abstract) | 16:40-16:50 |
-| Workshop Organisers | **CLOSING SESSION** | 16:50-17:00 |
-| PLENARY | **INFORMAL CHAT** | 17:00-17:30 |
+| Workshop Organisers | **INTRODUCTORY REMARKS** | 15:00-15:10 GMT |
+| Nancy Green | RST and Practical Reasoning [](/cmna23/assets/papers/.pdf) (long)  | 15:10-15:40  | 
+| Giulia D'agostino | Let's explain what we argue for. The argumentative function of explanations in Earnings Conference Calls [](/cmna23/assets/papers/.pdf)  (short)  | 15:40-16:00 |
+| Loris Isabettini | The Interplay of Kisceral Argumentation, AudioSonic Resonance, Secular Mysticism, and Natural Argumentation in Computational Models [](/cmna23/assets/papers/.pdf) (long) | 16:00-16:15 |
+| ALL | **BREAK/COFFEE/CHAT** | 16:15-16:30 | 
+| Trevor Bench-Capon | The Role of Intermediate Factors in Explaining Precedential Constraint [](/cmna23/assets/papers/.pdf) (long) | 16:30-17:00 |
+| Daniel Konstantynowicz, Francis Wojciechowski and Procheta Sen | Finding Important Arguments from a Legal Case [](/cmna23/assets/papers/.pdf) (long) | 17:00-17:20 |
+| Nancy Green | Deontological Argumentation Schemes [](/cmna23/assets/papers/.pdf) (long) | 17:20-17:40 |
+| ALL | **BREAK/COFFEE/CHAT** | 17:40-17:45 | 
+| Simon Wells & Mark Snaith | On The Role of Dialogue Models in the Age of Large Language Models [](/cmna23/assets/papers/.pdf) | 17:45-18:00 |
+| PLENARY | **"LLMs, ML, & AI in Argumentation "** | 18:00-18:25 |
+| Workshop Organisers | **CLOSING REMARKS** | 18:50-17:00 |
 
 
-Long & short papers have been published as archival proceedings on the [CEUR Workshop Proceedings website](http://ceur-ws.org/) in [volume #3205](http://ceur-ws.org/Vol-3205/).
+<!--Long & short papers have been published as archival proceedings on the [CEUR Workshop Proceedings website](http://ceur-ws.org/) in [volume #3205](http://ceur-ws.org/Vol-3205/).
 -->
 <!--
 # Invited Speaker (13:45-14:30 CET)
