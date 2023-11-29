@@ -20,13 +20,13 @@ comments: false
 |  Authors | Title  | Time  |
 |----------|---|---|
 | Workshop Organisers | **INTRODUCTORY REMARKS** | 15:00-15:10 GMT |
-| Nancy Green | RST and Practical Reasoning [](/cmna23/assets/papers/.pdf) (long)  | 15:10-15:40  | 
-| Giulia D'agostino | Let's explain what we argue for. The argumentative function of explanations in Earnings Conference Calls [](/cmna23/assets/papers/.pdf)  (short)  | 15:40-16:00 |
-| Loris Isabettini | The Interplay of Kisceral Argumentation, AudioSonic Resonance, Secular Mysticism, and Natural Argumentation in Computational Models [](/cmna23/assets/papers/.pdf) (long) | 16:00-16:15 |
+| Nancy Green | RST and Practical Reasoning [](/cmna23/assets/papers/.pdf)  | 15:10-15:40  | 
+| Giulia D'agostino | Let's explain what we argue for. The argumentative function of explanations in Earnings Conference Calls [](/cmna23/assets/papers/.pdf)   | 15:40-16:00 |
+| Loris Isabettini | The Interplay of Kisceral Argumentation, AudioSonic Resonance, Secular Mysticism, and Natural Argumentation in Computational Models [](/cmna23/assets/papers/.pdf) | 16:00-16:15 |
 | ALL | **BREAK/COFFEE/CHAT** | 16:15-16:30 | 
-| Trevor Bench-Capon | The Role of Intermediate Factors in Explaining Precedential Constraint [](/cmna23/assets/papers/.pdf) (long) | 16:30-17:00 |
-| Daniel Konstantynowicz, Francis Wojciechowski and Procheta Sen | Finding Important Arguments from a Legal Case [](/cmna23/assets/papers/.pdf) (long) | 17:00-17:20 |
-| Nancy Green | Deontological Argumentation Schemes [](/cmna23/assets/papers/.pdf) (long) | 17:20-17:40 |
+| Trevor Bench-Capon | The Role of Intermediate Factors in Explaining Precedential Constraint [](/cmna23/assets/papers/.pdf) | 16:30-17:00 |
+| Daniel Konstantynowicz, Francis Wojciechowski and Procheta Sen | Finding Important Arguments from a Legal Case [](/cmna23/assets/papers/.pdf)  | 17:00-17:20 |
+| Nancy Green | Deontological Argumentation Schemes [](/cmna23/assets/papers/.pdf)  | 17:20-17:40 |
 | ALL | **BREAK/COFFEE/CHAT** | 17:40-17:45 | 
 | Simon Wells & Mark Snaith | On The Role of Dialogue Models in the Age of Large Language Models [](/cmna23/assets/papers/.pdf) | 17:45-18:00 |
 | PLENARY | **"LLMs, ML, & AI in Argumentation "** | 18:00-18:25 |
