@@ -9,7 +9,9 @@ comments: false
 <!--
 * Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
 * CMNA 21 will use Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting.
-* [CMNA 2021 Proceedings](http://ceur-ws.org/Vol-2937/) are now available published through CEUR Workshop Proceedings.
+-->
+* [CMNA 2023 Proceedings CEUR-3614](http://ceur-ws.org/Vol-3614/) are now available published through CEUR Workshop Proceedings.
+<!--
 * Note that all times are in British Summer Time (GMT +1). You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+2021&iso=20210902T15&p1=136&ah=2&am=30) to double check the time in your own timezone for the sessions.
 * The closing seminar is part of the Ethics of Argumentation seminar series. We'll post a link to join that event to the eventbrite registered participants information in due time.
 -->
