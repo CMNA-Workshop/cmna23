@@ -3,6 +3,7 @@ title:  News & Updates
 subtitle: 
 comments: false
 ---
+* [2024.01.09] [Proceedings](http://ceur-ws.org/Vol-3614/) published
 * [2023.11.28] Provisional [programme of events](/cmna23/programme) published.
 * [2023.11.27] [Call for Participation](/cmna23/assets/cfp/cfparticipation.pdf) released.
 * [2023.10.23] Fourth call for paper released.
